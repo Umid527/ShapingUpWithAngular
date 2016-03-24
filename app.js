@@ -8,7 +8,8 @@
     var gem = {
         name: 'Dodecahedron',
         price: 2.95,
-        description: '...'
+        description: '...',
+        canPurchase:true
     };
 })();
 
